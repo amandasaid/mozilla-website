@@ -1,7 +1,7 @@
 
 .dummy{
 	color: blue;
-	width: 50%;
+	width: 30%;
 	font-size: 12px;
 }
 
@@ -13,4 +13,8 @@
 h1{
 	color: royalblue;
 	font-size: 54px;
+}
+
+html{
+	background-color: powderblue;
 }
